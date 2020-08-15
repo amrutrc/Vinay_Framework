@@ -1,0 +1,24 @@
+
+
+
+url=https://www.flipkart.com	
+browser=chrome
+
+#login user
+user=7411716485
+
+#login password
+password=Test@@123
+
+# Item to search
+searchString=titan watches
+
+# Nth Product to print
+searchNumber=10
+
+
+
+
+
+
+

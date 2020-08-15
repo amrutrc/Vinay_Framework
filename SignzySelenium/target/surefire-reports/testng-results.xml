@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58823" started-at="2020-02-12T17:01:27Z" finished-at="2020-02-12T17:02:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58823" started-at="2020-02-12T17:01:27Z" finished-at="2020-02-12T17:02:26Z">
+      <class name="com.flipkart.tests.ScenarioSignzy">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="launchBrowser" is-config="true" duration-ms="8560" started-at="2020-02-12T22:31:27Z" finished-at="2020-02-12T22:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="searchWatch()[pri:1, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="searchWatch" duration-ms="5509" started-at="2020-02-12T22:31:36Z" finished-at="2020-02-12T22:31:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWatch -->
+        <test-method status="PASS" signature="postExecution()[pri:0, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="postExecution" is-config="true" duration-ms="1058" started-at="2020-02-12T22:31:42Z" finished-at="2020-02-12T22:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postExecution -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="launchBrowser" is-config="true" duration-ms="7345" started-at="2020-02-12T22:31:43Z" finished-at="2020-02-12T22:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="printProdDescription()[pri:2, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="printProdDescription" duration-ms="19063" started-at="2020-02-12T22:31:50Z" finished-at="2020-02-12T22:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printProdDescription -->
+        <test-method status="PASS" signature="postExecution()[pri:0, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="postExecution" is-config="true" duration-ms="902" started-at="2020-02-12T22:32:09Z" finished-at="2020-02-12T22:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postExecution -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="launchBrowser" is-config="true" duration-ms="6787" started-at="2020-02-12T22:32:10Z" finished-at="2020-02-12T22:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="printAllProducts()[pri:3, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="printAllProducts" duration-ms="8656" started-at="2020-02-12T22:32:17Z" finished-at="2020-02-12T22:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAllProducts -->
+        <test-method status="PASS" signature="postExecution()[pri:0, instance:com.flipkart.tests.ScenarioSignzy@79b4d0f]" name="postExecution" is-config="true" duration-ms="931" started-at="2020-02-12T22:32:25Z" finished-at="2020-02-12T22:32:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postExecution -->
+      </class> <!-- com.flipkart.tests.ScenarioSignzy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

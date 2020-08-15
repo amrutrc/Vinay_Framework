@@ -1,0 +1,12 @@
+com\signzy\testUtils\Retry.class
+com\signzy\genericutils\WaitUtils.class
+com\signzy\genericutils\ExcelRead.class
+com\signzy\pageobjects\SearchResultsPage.class
+com\signzy\resources\ExtentReporterNG.class
+com\signzy\pageobjects\LoginPage.class
+com\signzy\loggers\ILogger.class
+com\signzy\loggers\SignzyLogger.class
+com\signzy\Init\Setup.class
+com\signzy\pageobjects\HomeScreen.class
+com\signzy\listners\AnnotationTransformer.class
+com\signzy\genericutils\Readprop.class
